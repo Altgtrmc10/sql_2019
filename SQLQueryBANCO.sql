@@ -1,0 +1,3 @@
+SELECT * FROM [192.168.137.16\MECATRONICA19B].[BANCO].[dbo].[depósito]
+UNION
+SELECT * FROM depósito
